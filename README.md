@@ -81,7 +81,7 @@
 
 ## **3.2 Use Case Diagram**
 
-
+![alt text](https://user-images.githubusercontent.com/81389884/205231260-cef55352-3e88-4973-98f5-a1a44fd8e62a.png " Use Case Diagram ")
 ## **3.3 Use Case: Create New Volunteer**
 
 | use-case field | Description |
